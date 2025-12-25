@@ -1,0 +1,42 @@
+TITLE: SMART VIDEO SURVEILLANCE SYSTEM 
+DAY -1 : PREPARATION OF DATASET 
+
+OVERVIEW OF PROJECT:
+                     The Smart Video Surveillance System is an AI-based solution designed to analyse surveillance video footage and predicting unusual or suspicious activities automatically in real time.The system analyzes human behaviour patterns captured by CCTV cameras to identify activities such as fighting,car accidents etc.
+On day 1, the focus is on dataset collection and preparation, which forms the foundation for training an accurate and reliable AI model
+
+OBJECTIVES OF DAY -1:
+.Finalize activity categories such as (normal and unusual behaviours)
+.Collect video,clips/images for each activity class 
+.Clean,filter,and label the dataset
+.Organize data into a structured format suitable for AIML training 
+
+DATASET COMPRISES:
+. Videos clips and image frames were collected from,
+   >Public surveillance datasets 
+   >Manually extracted frames from videos
+   >Only non-graphic and safe surveillance footage was included 
+
+DATASET STORAGE:
+ Due to large file size, the dayaset is stored externally, 
+ Dataset link:https://www.kaggle.com/datasets/webadvisor/real-time-anomaly-detection-in-cctv-surveillance
+
+REQUIREMENTS (both hardware and software):
+HARDWARE:
+1. CCTV footage 
+2. Network Equipment 
+  (Router,LAN connection for transmitting camera feeds)
+3. Internet connection 
+
+SOFTWARE:
+1. python programming 
+2. Open Cv for frame extraction and real-time video processing 
+3. Tensorflow/ keras, supports CNN model for activity recognition 
+4. Scikit-learn for pre-processing, model- evaluation and performance-metrics
+
+CONSEQUENCES:
+  >Variations in camera angles and lighting conditions 
+  > Background noise and occlusions in surveillance footage.
+ 
+
+
