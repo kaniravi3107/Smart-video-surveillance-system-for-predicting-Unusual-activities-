@@ -88,9 +88,17 @@ Models: YOLO, CNN, LSTM, Autoencoders
 Development Tool: VS Code
 Hardware: CCTV / IP Cameras
 
+
 Key Advantages:
 Real-time unusual activity prediction
 Reduced human monitoring effort
 Faster emergency response
 High accuracy using deep learning
 Scalable to multiple camera feeds
+
+
+PROJECT OUTPUT SCREENSHOT:
+<img width="1920" height="1080" alt="Final Project Screenshot" src="https://github.com/user-attachments/assets/c4075a2f-6403-4b32-8a92-98c0b235956a" />
+
+
+
